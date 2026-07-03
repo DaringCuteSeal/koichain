@@ -29,7 +29,7 @@ Uh, use it like a keychain.
 
 ## How it Works
 
-A coin cell battery powers an LED. It's that simple. Also there is copper fill at the front layer that prevent the LED from diffusing in some areas.
+A coin cell battery powers an LED. It's that simple. Also there is copper fill at the front layer that prevents the LED from diffusing in some areas.
 
 
 ## Build Instruction
