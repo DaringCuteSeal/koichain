@@ -7,9 +7,9 @@
 ![schematics](./schematics.png)
 
 
-It's a Koichain! A koi keychain.. get it? It can light up its eyes! (or, well, just one eye visible)
+It's a Koichain! A koi keychain.. get it? It can light up its eyes! (or, well, just one eye's visible technically)
 
-Made for Fallout 2026, day 1st: a badge
+Made for Fallout 2026, 1st day: a badge
 
 
 ## Why?
