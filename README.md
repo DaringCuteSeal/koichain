@@ -2,7 +2,10 @@
 
 ![koi shaped keychain](./koichain.png)
 
-![koi shaped keychain](./koichain-back.png)
+![koi shaped keychain back view](./koichain-back.png)
+
+![schematics](./schematics.png)
+
 
 It's a Koichain! A koi keychain.. get it? It can light up its eyes! (or, well, just one eye visible)
 
