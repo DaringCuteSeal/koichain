@@ -35,3 +35,7 @@ A coin cell battery powers an LED. It's that simple. Also there is copper fill a
 2. Solder the components, if not using PCBA
 3. Get a coin cell battery
 4. Done
+
+## BoM
+
+See [bom.csv](./bom.csv).

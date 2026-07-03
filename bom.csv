@@ -1,0 +1,5 @@
+No.	Quantity	Comment	Designator	Footprint	Value	Manufacturer Part	Manufacturer	Supplier
+1	1	CR2032-A1	BT1	BAT-SMD_CR2032_C9900016310		CR2032-A1	HanElectricity(瀚源)	LCSC
+2	1	YLED0602WSIDE	LED1	LED-SMD_L1.6-W1.1-R-RD_WHITE		YLED0602WSIDE	YONGYUTAI(永裕泰)	LCSC
+3	1	220	R1	R0603	220			
+4	1	HX-3x6x2.5-X SMD tact Switch	SW1	SW-SMD_HX-3X6X2.5-X		HX-3x6x2.5-X SMD tact Switch	hanxia(韩下)	LCSC
